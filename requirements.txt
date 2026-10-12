@@ -1,0 +1,4 @@
+# Tested BabelDOC API; use a dedicated Python 3.12 environment.
+babeldoc==0.6.4
+PyMuPDF==1.25.2
+Pillow>=11.3,<12
